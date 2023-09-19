@@ -18,6 +18,15 @@
     "sequelize-cli": "^6.6.0"
   },
   "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
     "nodemon": "^2.0.22"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaush42/infoware-assignment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gaush42/infoware-assignment/issues"
+  },
+  "homepage": "https://github.com/gaush42/infoware-assignment#readme"
 }
